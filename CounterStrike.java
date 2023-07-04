@@ -10,11 +10,11 @@ public class CounterStrike {
         int fifthLionsPlayer = 15;
 
         String secondTeam = "Wolves";
-        int firstWolvesPlayer = 10;
-        int secondWolvesPlayer = 11;
+        int firstWolvesPlayer = 18;
+        int secondWolvesPlayer = 17;
         int thirdWolvesPlayer = 12;
         int fourthWolvesPlayer = 7;
-        int fifthWolvesPlayer = 14;
+        int fifthWolvesPlayer = 15;
 
         double averageFragLions = (double) (firstLionsPlayer + secondLionsPlayer + thirdLionsPlayer + fourthLionsPlayer + fifthLionsPlayer) / 5;
         double averageFragWolves = (double) (firstWolvesPlayer + secondWolvesPlayer + thirdWolvesPlayer + fourthWolvesPlayer + fifthWolvesPlayer) / 5;

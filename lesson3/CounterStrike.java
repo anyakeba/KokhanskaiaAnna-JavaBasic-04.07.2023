@@ -1,4 +1,4 @@
-package com.gmail.anyakeba.lesson3;
+package com.gmail.anyakeba.homeworks.lesson3;
 
 public class CounterStrike {
     public static void main(String[] args) {

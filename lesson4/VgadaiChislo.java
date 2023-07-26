@@ -20,7 +20,6 @@ public class VgadaiChislo {
             } else {
                 attempt--;
                 System.out.println("Oops, it is incorrect.");
-
             }
 
         } while (attempt >= 1);
